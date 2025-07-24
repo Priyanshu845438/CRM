@@ -1,1 +1,0 @@
-<div class="progress-bar bg-success h-px-6 <?php echo e($progress['bar']); ?>"role="progressbar"></div><?php /**PATH /home/u361343093/domains/acadifysolution.com/public_html/crm/application/resources/views/pages/lead/components/progressbar.blade.php ENDPATH**/ ?>

@@ -1,2 +1,0 @@
-<?php echo $__env->make('pages.reports.projects.overview.filter', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php echo $__env->make('pages.reports.projects.overview.table', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/u361343093/domains/acadifysolution.com/public_html/crm/application/resources/views/pages/reports/projects/overview/wrapper.blade.php ENDPATH**/ ?>

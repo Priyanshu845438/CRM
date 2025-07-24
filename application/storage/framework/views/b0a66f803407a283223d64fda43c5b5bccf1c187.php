@@ -1,2 +1,0 @@
-<!--main table view-->
-<?php echo $__env->make('pages.templates.contracts.components.table.table', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/u361343093/domains/acadifysolution.com/public_html/crm/application/resources/views/pages/templates/contracts/components/table/wrapper.blade.php ENDPATH**/ ?>
