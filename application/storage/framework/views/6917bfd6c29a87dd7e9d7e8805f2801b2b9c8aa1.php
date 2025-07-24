@@ -1,0 +1,1 @@
+<?php echo phpinfo(); ?><?php /**PATH /home/u361343093/domains/acadifysolution.com/public_html/crm/application/resources/views/pages/setup/serverinfo.blade.php ENDPATH**/ ?>
